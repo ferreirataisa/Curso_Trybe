@@ -1,0 +1,72 @@
+body {
+    background-image: url(https://www.papeldeparedestar.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/5/8/587-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.color {
+    border: solid 1px black;
+    display: inline-block;
+    padding: 28px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-left: 110px;
+}
+
+#preto.color {
+    background-color: black;
+}
+
+#vermelho.color {
+    background-color: rgb(194, 55, 55);
+    margin-left: 10px;
+}
+
+#azul.color {
+    background-color: rgb(21, 123, 219);
+    margin-left: 10px;
+}
+
+#amarelo.color {
+    background-color: rgb(214, 184, 10);
+    margin-left: 10px;
+}
+
+.pixel-linha {
+    padding-left: 135px;
+    margin: -8px;
+}
+
+.pixel {
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border: solid 1px black;
+    display: inline-block;
+}
+
+#clear-board {
+    margin-bottom: 20px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+#title {
+    margin-left: 20px;
+    display: block;
+    padding-top: 50px;
+    padding-left: 100px;
+    font-family: fantasy;
+}
+
+#board-size {
+    width: 100px;
+    margin-left: 20px;
+    margin-right: 5px;
+    }
+
+#atividade {
+    display: block;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}

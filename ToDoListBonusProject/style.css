@@ -1,0 +1,41 @@
+.item-selected {
+    background-color: rgb(212, 171, 171);
+    width: 223px;
+}
+
+.completed {
+    text-decoration: line-through solid rgb(0,0,0);
+}
+
+body {
+    background-color: rgb(252, 229, 233);
+}
+
+.header {
+    background-image: url('https://holmesdoc.com.br/wp-content/uploads/2020/10/HOLMES-Modelo-capa-de-blog-1-1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 20% 15%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    height: 300px;
+    padding-left: 100px;
+    color: white;
+}
+
+.main {
+    padding: 30px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+#texto-tarefa {
+    height: 38px;
+    border-radius: 8px;
+}
+
+li::selection {
+    background: none;
+}

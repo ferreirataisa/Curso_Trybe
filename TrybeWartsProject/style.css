@@ -1,0 +1,156 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(50, 167, 145);
+  color: white;
+  font-size: large;
+  height: 90px;
+  font-family: fantasy;
+  align-items: center;
+}
+
+.trybewarts-header-logo {
+  height: 70px;
+  margin: 10px;
+  margin-left: 30px;
+}
+
+.trybewarts-login {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-content: space-between;
+  padding-right: 10px;
+  gap: 10px;
+}
+
+main {
+  display: flex;
+  justify-content: flex-end;
+  background-color: rgb(233, 227, 227);
+}
+
+#evaluation-form {
+  display: flex;
+  flex-direction: column;
+  width: 675px;
+  justify-content: center;
+  align-items: flex-start;
+  font-family: fantasy;
+  font-weight: bolder;
+  line-height: 1.5;
+}
+
+#trybewarts-forms-logo {
+  height: 500px;
+  margin-top: 40px;
+  margin-right: 60px;
+}
+
+#input-name {
+  width: 260px;
+  flex-direction: row;
+}
+
+#input-lastname {
+  width: 260px;
+  flex-direction: row;
+}
+
+#input-email {
+  width: 260px;
+}
+
+.titulo {
+  font-size: 25px;
+  padding: 20px 0px 5px;
+  width: 520px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.familia {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.familia2 {
+  margin-top: 20px;
+  margin-left: 50px;
+}
+
+.familia3 {
+  margin-top: 20px;
+}
+
+.footer {
+  background-color: #24292f;
+  color: white;
+  font-size: small;
+  font-style: italic;
+  height: 40px;
+  text-align: center;
+  padding: 10px;
+  font-family: fantasy;
+}
+
+.lado-lado {
+  display: flex;
+  gap: 50px;
+}
+
+.lista {
+  display: flex;
+  gap: 20px;
+}
+
+#label-content {
+  width: 300px;
+}
+
+.nome-sobrenome {
+  padding-bottom: 10px;
+}
+
+.header-button {
+  background-color: #6440a8;
+  color: white;
+  font-size: small;
+  border-radius: 10%;
+  padding: 5px 20px;
+}
+
+input {
+  font-size: small;
+  padding: 5px;
+}
+
+#house {
+  padding: 7px;
+  width: 216px;
+  font-weight: bolder;
+  font-size: small;
+}
+
+#textarea {
+  width: 510px;
+  height: 100px;
+  border: 1px solid #6440a8;
+  border-radius: 2px;
+}
+
+.concorda {
+  padding: 5px 0px 10px;
+}
+
+#submit-btn {
+  width: 510px;
+  background-color: #6440a8;
+  color: white;
+  font-size: small;
+  padding: 5px 20px;
+  border-radius: 2%;
+  margin-bottom: 30px;
+}
