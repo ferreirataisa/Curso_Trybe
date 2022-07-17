@@ -4,7 +4,7 @@
 
 📜 Repositório com conteúdos e projetos executados por mim, Taisa Ferreira, durante o curso de Desenvolvimento Web da Trybe.
 <br>
-(Os projetos realizados estão separados por pastas, e o vídeo ilustrativo de cada projeto encontra-se no README desse repositório)
+(Os projetos realizados estão separados por pastas, e o vídeo ilustrativo de cada projeto encontra-se no módulo solicitado - no README desse repositório)
 
 # Fundamentos do Desenvolvimento Web 
 
