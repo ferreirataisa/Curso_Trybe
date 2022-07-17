@@ -1,0 +1,84 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-image: url('../src/images/background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: aliceblue;
+  text-align: center;
+}
+
+.center-title {
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  text-align: center;
+  width: 500px;
+  border: 1px solid aliceblue;
+  font-size: 30px;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.header {
+  text-align: center;
+  font-size: 50px;
+}
+
+.solar-system {
+  display: inline-block;
+  /* border: 3px solid blue; */
+  width: 200px;
+}
+
+img:hover {
+  width: 250px;
+  transition: 1s ease-in;
+  transform: rotate(180deg);
+}
+
+.image {
+  width: 150px;
+}
+
+.mission-card {
+  display: inline-block;
+  backdrop-filter: blur(10px);
+  background-color: rgba(0, 0, 0, 0.7);
+  border: 1px solid white;
+  border-radius: 8%;
+  flex-grow: 1;
+  margin: 1rem;
+  width: 300px;
+}
+
+.mission-name {
+  font-weight: bolder;
+  padding: 10px;
+}
+
+.mission-card:hover {
+  background-color: rgba(125, 124, 124, 0.7);
+  transition: 1s ease-in;
+}
+
+.mission-card header {
+  border-bottom: 1px solid rgb(246, 244, 243);
+  padding: 0.1px;
+}
+
+.mission-card header h3 {
+  font-size: 20px;
+}
+
+.mission-card div {
+  padding: 0.1px;
+}
+
+.mission-card div p {
+  font-size: 18px;
+}
