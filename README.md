@@ -1,12 +1,11 @@
-# Trybe_Course 
+# Trybe - Turma 22 * Tribo B
+Repositório com conteúdos e projetos executados por mim, Taisa Ferreira, durante o curso de Desenvolvimento Web da Trybe.
 
-Portfolio of projects performed by Taisa Ferreira during the Web Development course at Trybe. 22th Class - 2022/March.
+"A Trybe é uma escola de desenvolvimento web que tem comprometimento genuíno com o sucesso profissional das pessoas estudantes. São mais de 1500 horas de formação que aborda fundamentos de desenvolvimento web, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."
 
-There are more than 1500 hours of study that covers the fundamentals of web development, development, Front-end, Back-end, computer science, agile methodologies, and, plus, soft skills.
+# Fundamentos do Desenvolvimento Web 
 
-# Principles of Web Development 
-
- <h2> Unit 01: Unix & Bash </h2>
+<h2> Unit 01: Unix & Bash </h2>
  <br> 
  ☑️ 01.03 - Unix & Bash - Part 1
  <div>
