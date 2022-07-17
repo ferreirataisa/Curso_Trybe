@@ -1,7 +1,10 @@
-# Trybe - Turma 22 * Tribo B
-Repositório com conteúdos e projetos executados por mim, Taisa Ferreira, durante o curso de Desenvolvimento Web da Trybe.
+# Trybe - Turma 22 * Tribo B 🚀
 
 "A Trybe é uma escola de desenvolvimento web que tem comprometimento genuíno com o sucesso profissional das pessoas estudantes. São mais de 1500 horas de formação que aborda fundamentos de desenvolvimento web, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."
+
+📜 Repositório com conteúdos e projetos executados por mim, Taisa Ferreira, durante o curso de Desenvolvimento Web da Trybe.
+<br>
+(Os projetos realizados estão separados por pastas, e o vídeo ilustrativo de cada projeto encontra-se no README desse repositório)
 
 # Fundamentos do Desenvolvimento Web 
 
