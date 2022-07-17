@@ -33,6 +33,8 @@ Repositório com conteúdos e projetos executados por mim, Taisa Ferreira, duran
  <div>
  ☑️ 03.05 - Project - Lessons Learned - Grade: 🥇
  </br>
+  
+ ![projetopronto](https://user-images.githubusercontent.com/102384482/179380947-946c1354-fafe-4068-931d-921e00066ab0.jpg)
 
 <h2> Unit 04: Introduction to JavaScript </h2>
 <br>
@@ -59,10 +61,14 @@ Repositório com conteúdos e projetos executados por mim, Taisa Ferreira, duran
 <div>
 ☑️ 05.05 - Project - Pixels Art - Grade: 🥇
 <br>
- 
+  
+https://user-images.githubusercontent.com/102384482/179380765-2c5930df-524e-44a1-8e3c-ddbb95022cc6.mp4
+
 <div>
 ☑️ 05.06 - Project - To-do List (Bonus)
  <br>
+ 
+https://user-images.githubusercontent.com/102384482/179380792-8a89d6ac-e85e-4f69-916e-948807b44693.mp4
 
 <div>
  
@@ -82,7 +88,9 @@ Repositório com conteúdos e projetos executados por mim, Taisa Ferreira, duran
 <br>
 ☑️ 06.06 - Project - Trybewarts - Grade: 🥇
 </br>
- 
+  
+https://user-images.githubusercontent.com/102384482/179380919-6e0f4289-54e5-44ea-ac8b-ea72cf32bded.mp4
+
 <h2> Unit 07: Introduction to JavaScript ES6 and Unit Tests </h2>
 <br>
 ☑️ 07.01 - JavaScript ES6 - let, const, arrow functions, and template literals
@@ -123,6 +131,8 @@ Repositório com conteúdos e projetos executados por mim, Taisa Ferreira, duran
  <div>
  ☑️ 09.04 - Project - Shopping Cart - Grade: 🥇
  </br>
+ 
+https://user-images.githubusercontent.com/102384482/179380982-a02af9ad-da1b-4ff5-b70f-14eee6b549e3.mp4
 
  <h2> Unit 10: Introduction to React </h2>
  <br> 
@@ -132,8 +142,10 @@ Repositório com conteúdos e projetos executados por mim, Taisa Ferreira, duran
  <div>
  ☑️ 10.02 - Componentes React
  <div>
- ☑️ 10.03 - Project - Sistema Solar - Grade:
+ ☑️ 10.03 - Project - Sistema Solar - Grade: 🥇
  </br>
+  
+https://user-images.githubusercontent.com/102384482/179381002-cc9dd686-21cf-4929-b02a-2aa49f988a9c.mp4
   
  <h2> Unit 11: Components with State, Events, and Forms with React </h2>
  <br> 
@@ -141,7 +153,7 @@ Repositório com conteúdos e projetos executados por mim, Taisa Ferreira, duran
  <div>
  ☑️ 11.02 - Forms with React
  <div>
- ☑️ 11.03  - Project - Tryunfo - Grade:
+ ☑️ 11.03  - Project - Tryunfo - Grade: 🥇
  </br>
   
  <h2> Unit 12: Components Lifecycle and React Router</h2>
@@ -150,14 +162,14 @@ Repositório com conteúdos e projetos executados por mim, Taisa Ferreira, duran
  <div>
  ☑️ 12.02 - React Router
  <div>
- ☑️ 12.03 - Project - TrybeTunes - Grade:
+ ☑️ 12.03 - Project - TrybeTunes - Grade: 🥇
  </br>
   
  <h2> Unit 13: Agile Methodologies </h2>
  <br> 
  ☑️ 13.01 - Agile Methodologies
  <div>
- ☑️ 13.02 - Project - Front-end Online Store - Grade:
+ ☑️ 13.02 - Project - Front-end Online Store - Grade: 🥇
  </br>
  
  <h2> Unit 14: Automated testing with React Testing Library </h2>
