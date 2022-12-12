@@ -183,175 +183,175 @@ https://user-images.githubusercontent.com/102384482/179381002-cc9dd686-21cf-4929
  <div>
  ☑️ 14.03 - RTL - Testing React Router
  <div>
-  14.04 - Project - Tests with React - Grade: 
+ ☑️ 14.04 - Project - Tests with React - Grade: 🥇
  </br>
   
  <h2> Unit 15: State management with Redux </h2>
  <br> 
- 15.01 - Introduction to Redux - the global application state
+ ☑️ 15.01 - Introduction to Redux - the global application state
  <div>
- 15.02 - Using Redux with React
+ ☑️ 15.02 - Using Redux with React
  <div>
- 15.03 - Using Redux with React - Practice - RTL - Testing React Router
+ ☑️ 15.03 - Using Redux with React - Practice - RTL - Testing React Router
  <div>
- 15.04 - Using Redux with React - Asynchronous Actions
+ ☑️ 15.04 - Using Redux with React - Asynchronous Actions
  <div>
- 15.05 - Tests with React-Redux
+ ☑️ 15.05 - Tests with React-Redux
  <div>
- 15.06 - Project - Trybe Wallet - Grade:
+ ☑️ 15.06 - Project - Trybe Wallet - Grade: 🥇
  </br>
    
  <h2> Unit 16: Project - Trivia Game </h2>
  <br>
- 16.01 - Project - Trivia Game - Grade:
+ ☑️ 16.01 - Project - Trivia Game - Grade: 🥇
  </br>
 
  <h2> Unit 17: Context API and React Hooks </h2>
  <br>  
- 17.01 - React Context API
+ ☑️ 17.01 - React Context API
  <div>
- 17.02 - React Hooks - useState and useContext
+ ☑️ 17.02 - React Hooks - useState and useContext
  <div>
- 17.03 - React Hooks - useEffect and custom Hooks
+ ☑️ 17.03 - React Hooks - useEffect and custom Hooks
  <div>
- 17.04 - Project - StarWars Datatable with Context API and Hooks - Grade:
+ ☑️ 17.04 - Project - StarWars Datatable with Context API and Hooks - Grade:
  </br>
  
  <h2> Unit 18: Project - Recipes App</h2>
  <br>
- 18.01 - Project - Recipes App - Grade:
+ ☑️ 18.01 - Project - Recipes App - Grade: 🥇
  </br>
 
   # Back-end Development
  
  <h2> Unit 19: Docker: Using Containers </h2>
  <br> 
- 19.01 - Introduction - Back-end
+ ☑️ 19.01 - Introduction - Back-end
  <div>
- 19.01 - Using Containers - Docker
+ ☑️ 19.01 - Using Containers - Docker
  <div>
- 19.02 - Manipulation and Creation of Images with Docker
+ ☑️ 19.02 - Manipulation and Creation of Images with Docker
  <div>
- 19.03 - Orchestrating Containers with Docker Compose
+ ☑️ 19.03 - Orchestrating Containers with Docker Compose
  <div>
- 19.04 - Project - Docker To-do List - Grade:
+ ☑️ 19.04 - Project - Docker To-do List - Grade: 🥇
  </br>
   
  <h2> Unit 20: Introduction to SQL </h2>
  <br> 
- 20.01 - Introduction - Relational Databases
+ ☑️ 20.01 - Introduction - Relational Databases
  <div>
- 20.01 - SQL Databases
+ ☑️ 20.01 - SQL Databases
  <div>
- 20.02 - Finding data in a database
+ ☑️ 20.02 - Finding data in a database
  <div>
- 20.03 - Filtering data in specific ways
+ ☑️ 20.03 - Filtering data in specific ways
  <div>
- 20.04 - Manipulating tables
+ ☑️ 20.04 - Manipulating tables
  <div>
- 20.05 - Project - All For One - Grade:
+ ☑️ 20.05 - Project - All For One - Grade: 🥇
  </br>
   
  <h2> Unit 21: SQL Functions, JOINs e Normalization </h2>
  <br>
- 21.01 - Most used SQL functions
+ ☑️ 21.01 - Most used SQL functions
  <div>
- 21.02 - Simplifying JOINs
+ ☑️ 21.02 - Simplifying JOINs
  <div>
- 21.03 - Turning ideas into a database model
+ ☑️ 21.03 - Turning ideas into a database model
  <div> 
- 21.04 - Live lecture + Project - One For All - Grade:
+ ☑️ 21.04 - Live lecture + Project - One For All - Grade: 🥇
  </br>
   
  <h2> Unit 22: Introduction to Web Development with Node.js </h2>
  <br>
- 22.01 - Intro - Node.js
+ ☑️ 22.01 - Intro - Node.js
  <div>
- 22.01 - Node.js - An JavaScript engine
+ ☑️ 22.01 - Node.js - An JavaScript engine
  <div>
- 22.02 - Node.js - Asynchronous Flow
+ ☑️ 22.02 - Node.js - Asynchronous Flow
  <div>
- 22.03 - Mocha, Chai and Sinon - Back-end Tests with Node.js
+ ☑️ 22.03 - Mocha, Chai and Sinon - Back-end Tests with Node.js
  <div>
- 22.04 - Express - HTTP with Node.js
+ ☑️ 22.04 - Express - HTTP with Node.js
  <div>
- 22.05 - Express - Middlewares
+ ☑️ 22.05 - Express - Middlewares
  <div>
- 22.06 - Project - Talker Manager - Grade:
+ ☑️ 22.06 - Project - Talker Manager - Grade: 🥇
  </br>
   
  <h2> Unit 23: Node.js: Service Layer, Rest Architecture, and Restful </h2>
  <br>
- 23.01 - Introduction to - Software Architecture
+ ☑️ 23.01 - Introduction to - Software Architecture
  <div>
- 23.01 - Software Architecture - Model Layer
+ ☑️ 23.01 - Software Architecture - Model Layer
  <div>
- 23.02 - Software Architecture - Controller and Service Layers
+ ☑️ 23.02 - Software Architecture - Controller and Service Layers
  <div>
- 23.03 - Web Architecture - Rest and Restful
+ ☑️ 23.03 - Web Architecture - Rest and Restful
  <div>
- 23.04 - Software Architecture - Testing the Layers
+ ☑️ 23.04 - Software Architecture - Testing the Layers
  <div>
- 23.05 - Project - Store Manager - Grade: 
+ ☑️ 23.05 - Project - Store Manager - Grade: 🥇
  </br>
   
  <h2> Unit 24: Node.js: ORM and Autentication </h2>
  <br>
- 24.01 - Introduction - Node.js: ORM and Autentication
+ ☑️ 24.01 - Introduction - Node.js: ORM and Autentication
  <div>
- 24.01 - ORM - Application interface with the database
+ ☑️ 24.01 - ORM - Application interface with the database
  <div>
- 24.02 - ORM - Associations
+ ☑️ 24.02 - ORM - Associations
  <div>
- 24.03 - JWT - (JSON Web Token)
+ ☑️ 24.03 - JWT - (JSON Web Token)
  <div>
- 24.04 - Testing APIs with Integration Tests
+ ☑️ 24.04 - Testing APIs with Integration Tests
  <div>
- 24.05 - Project - Blogs API
+ ☑️ 24.05 - Project - Blogs API - Grade: 🥇
  </br>
  
  <h2> Unit 25: Deployment </h2>
  </br>
- 25.01 - Introduction - Deploy
+ ☑️ 25.01 - Introduction - Deploy
  <div>
- 25.01 - Infrastructure - Deploy with Heroku
+ ☑️ 25.01 - Infrastructure - Deploy with Heroku
  <div>
- 25.02 - Deploy Docker & Heroku
+ ☑️ 25.02 - Deploy Docker & Heroku
  <div>
- 25.03 - Project - Stranger Things - Grade: 
+ ☑️ 25.03 - Project - Stranger Things - Grade: 🥇
  </br>
  
  <h2> Unit 26: TypeScript </h2>
  <br>
- 26.01 - Introduction - TypeScript
+ ☑️ 26.01 - Introduction - TypeScript
  <div>
- 26.01 - Introduction to TypeScript
+ ☑️ 26.01 - Introduction to TypeScript
  <div>
- 26.02 - Static typing and Generics
+ ☑️ 26.02 - Static typing and Generics
  <div> 
- 26.03 - Express with TypeScript
+ ☑️ 26.03 - Express with TypeScript
  <div>
- 26.04 - Project - Trybe Smith - Grade:
+ ☑️ 26.04 - Project - Trybe Smith - Grade: 🥇
  </br>
   
  <h2> Unit 27: Object-Oriented Programming (OOP) and SOLID </h2>
  <br>
- 27.01 -  Introduction to Object-Oriented Programming
+ ☑️ 27.01 -  Introduction to Object-Oriented Programming
  <div>
- 27.02 - Inheritance and Interfaces
+ ☑️ 27.02 - Inheritance and Interfaces
  <div>
- 27.03 - Polymorfism
+ ☑️ 27.03 - Polymorfism
  <div>
- 27.04 - SOLID - Introduction
+ ☑️ 27.04 - SOLID - Introduction
  <div>
- 27.05 - SOLID - Continuation
+ ☑️ 27.05 - SOLID - Continuation
  <div>
- 27.06 - Project - Trybers and Dragons - Grade:
+ ☑️ 27.06 - Project - Trybers and Dragons - Grade: 🥇
  </br>
  
  <h2> Unit 28: Project - TFC - Trybe Soccer Team </h2>
  <br>
- 28.01 - Project - TFC - Trybe Soccer Team - Grade:
+ ☑️ 28.01 - Project - TFC - Trybe Soccer Team - Grade: 🥇
  </br>
   
  <h2> Unit 29: Introduction to MongoDB </h2>
